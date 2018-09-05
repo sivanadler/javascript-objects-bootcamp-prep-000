@@ -4,5 +4,7 @@ var playlist = {
 }
 
 Function updatePlaylist (object, artistName, songTitle){
-  
+  playlist[artistName] = songTitle
+  return playlist
+}
 }
