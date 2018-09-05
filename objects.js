@@ -3,4 +3,4 @@ var playlist = {
   'My Bloody Valentine': 'Sometimes'
 }
 
-Function upda
+Function updatePlaylist (object, artist, songTitle)
